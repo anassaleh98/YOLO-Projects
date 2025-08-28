@@ -17,7 +17,7 @@ A people counting system using **YOLOv8** to detect and track individuals enteri
 
 📁 [View Project Folder](./InOut-Counter-YOLOv8)
 
-🔗 **Demo Video:** [Watch here](https://drive.google.com/file/d/1XgfbZaYFaSYIfN0QH6O3ZIc_mh9ECjZ3/view?usp=drive_link)
+🔗 **Demo Video:**
 
-
+https://github.com/user-attachments/assets/4d59a671-6ba0-4da5-80a4-34c7e7694077
 
